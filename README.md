@@ -1,4 +1,4 @@
-# Prueba Técnica — Data Analyst / Data Scientist / Reporting Analyst
+# Prueba Técnica — Global Reporting Analyst
 
 ## Descripción
 
